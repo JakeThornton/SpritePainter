@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POV/POV.iml" filepath="$PROJECT_DIR$/POV/POV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpritePainter.iml" filepath="$PROJECT_DIR$/SpritePainter.iml" />
+    </modules>
+  </component>
+</project>
+
